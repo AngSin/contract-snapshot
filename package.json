@@ -1,0 +1,15 @@
+{
+  "name": "staking-snapshot",
+  "version": "0.0.1",
+  "description": "package to parse staked users snapshot",
+  "main": "snapshot.js",
+  "scripts": {
+    "snapshot": "node uniqueAddressSnapshot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
